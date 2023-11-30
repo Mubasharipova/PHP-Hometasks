@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap">
+	<link rel="stylesheet" type="text/css" href="style.css">
+  <div class="container">
+  <div class="row">
+    <div class="col-6">
+      <h1>Шарипова Муборакхон</h1>
+    </div>
+  </div>
+</div>
+</head>
+
+<body>
+	<div class="col-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+    	<img src="img/upl_1593930047_125475.png">
+    
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+
+      <p>Я ученица 6д класса. С самого начала я учусь в НУ Школе Амид.
+       Научилась у учителей многим предметам и очень им благодарна. Стала понемногу разбираться в программировании и в надежде в будущем стать лучшим программистом . За  эти шесть лет я учавствовала во многих школьных конкурсах . </p>
+    </div>
+    
+</div>
+</div>
+</div>
+
+<button><a href="family.html">FAMILY</a></button>
+<button><a href="school.html">MY SCHOOL</a></button>
+<button><a href="job.html">MY FUTURE JOB</a></button>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+    	<div class="textil">
+      <h2>Контакты для связи</h2>
+  </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+    	<div class="textil">
+      <p>Телефон: +992 92-730-55-04</p>
+      <p>Почта: muba.sharipova@mail.com</p>
+      
+  </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+</body>
+</html>
